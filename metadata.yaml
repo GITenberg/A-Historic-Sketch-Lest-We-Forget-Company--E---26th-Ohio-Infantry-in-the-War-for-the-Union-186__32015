@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '35616'
     url: http://www.gutenberg.org/2009/agents/35616
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32015#A-Historic-Sketch-Lest-We-Forget-Company--E---26th-Ohio-Infantry-in-the-War-for-the-Union-186_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-04-16'
 gutenberg_type: Text
